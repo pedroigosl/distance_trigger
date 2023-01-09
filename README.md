@@ -18,3 +18,7 @@ States:
 - Armed - Connected (to remote), armed (fuse installed), no go
 - Warning - Connected (to remote), armed (fuse installed), go signal received. Transitions automatically to igniting after a period
 - Igniting - Connected (to remote), armed (fuse installed), go signal received. Attempting to light fuse
+
+
+
+DISCLAIMER: I made it for my personal pyro uses and published only to show off my sexy protothreads. There is no license, i'm responsible for nothing. It will never be updated. Don't use it. Why are you even here? We all know you won't use my messy code either way.
